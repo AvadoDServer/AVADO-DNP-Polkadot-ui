@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  polkadot-ui.avado.dnp.dappnode.eth:
+    container_name: "polkadot-ui.avado.dnp.dappnode.eth"
+    image: "polkadot-ui.avado.dnp.dappnode.eth:0.0.1"
+    build: ./build
+    ports:
+      - '80:80' 
+    restart: always

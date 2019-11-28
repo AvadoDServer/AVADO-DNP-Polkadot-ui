@@ -1,0 +1,21 @@
+{
+  "name": "polkadot-ui.avado.dnp.dappnode.eth",
+  "version": "0.0.1",
+  "description": "Polkadot UI",
+  "avatar": "QmS1jxABk44ZQUgpx5jkGkdBFa1i4D1JYf58rffrq9a7mx",
+  "type": "",
+  "image": {
+    "ports": [
+      "80:80"
+    ],
+    "restart": "always",
+    "path": "polkadot-ui.avado.dnp.dappnode.eth_0.0.1.tar.xz",
+    "hash": "/ipfs/QmVfJYqeGpntD7adGDLnym4ksbKbs7865zv622T9nht9Gn",
+    "size": 8193026
+  },
+  "author": "avado r&d",
+  "license": "",
+  "links": {
+    "OnboardingWizard": "http://my.polkadot-ui.avado.dnp.dappnode.eth:80"
+  }
+}
