@@ -1,20 +1,19 @@
 {
   "name": "polkadot-ui.avado.dnp.dappnode.eth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Polkadot UI",
-  "avatar": "QmS1jxABk44ZQUgpx5jkGkdBFa1i4D1JYf58rffrq9a7mx",
-  "type": "",
+  "avatar": "/ipfs/QmSbBcYKsEjUTD2UBSyxqjBB8YA2XQ2R1MQpkqki3doj7d",
+  "type": "service",
+  "autoupdate": true,
+  "title": "Polkadot Block explorer UI",
   "image": {
-    "ports": [
-      "80:80"
-    ],
     "restart": "always",
-    "path": "polkadot-ui.avado.dnp.dappnode.eth_0.0.2.tar.xz",
-    "hash": "/ipfs/QmYqrgML746oMC1mhcytwJgrCGvb17DYxQ52Fs5yBGkYui",
-    "size": 8191306
+    "path": "polkadot-ui.avado.dnp.dappnode.eth_0.0.3.tar.xz",
+    "hash": "/ipfs/QmTH17AXoxn4AZkaAgeWfQuL4T9pRqQNNug6AXwoiRAuwu",
+    "size": 15843216
   },
   "author": "avado r&d",
-  "license": "",
+  "license": "(c) AVADO",
   "links": {
     "OnboardingWizard": "http://my.polkadot-ui.avado.dnp.dappnode.eth:80"
   }
